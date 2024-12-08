@@ -1,0 +1,2 @@
+# python-discount
+Discount calculator
